@@ -3,4 +3,29 @@
     <string name="next">Next</string>
     <string name="texto_1">Texto_1</string>
     <string name="texto_2">Texto_2</string>
+
+    <string name="texto_3">Tarefa</string>
+    <string name="texto_4">Dia da Semana</string>
+
+    <string name="texto_5">Registrar</string>
+
+    <string name="tarefa">Tarefas</string>
+    <string name="dias_da_semana">Dias da Semana</string>
+
+    <string-array name="tipo_de_tarefa">
+        <item>Pessoal</item>
+        <item>Trabalho</item>
+        <item>Faculdade</item>
+        <item>Outros</item>
+    </string-array>
+
+    <string-array name="dias_da_semana">
+        <item>segunda-feira</item>
+        <item>terca-feira</item>
+        <item>quarta-feira</item>
+        <item>quinta-feira</item>
+        <item>sexta-feira</item>
+    </string-array>
+
+
 </resources>
